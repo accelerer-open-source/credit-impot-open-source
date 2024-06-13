@@ -28,7 +28,7 @@ Exemple: je crée un algorithme de résolution d'équations et je le publie en o
 
 Même pour un projet open source qui n'a pas d'équivalent public, il faut donc revenir aux critères usuels pour caractériser un travail considéré comme R&D, le caractère public ne suffit pas.
 
-On note par contre que l'existence d'implémentations privées n'empêche pas un projet open source d'être éligible, car les implémentations privées ne font pas à proprement parler partie de l'état de l'art accessible aux entreprises, contrairement aux publications de recherche académique, aux brevets et aux autres projets open source qui font partie de l'état de l'art public.
+On note par contre que l'existence d'implémentations privées n'empêche pas un projet open source d'être éligible, car les implémentations privées ne font pas à proprement parler partie de l'état de l'art accessible aux entreprises. Contrairement aux publications de recherche académique, aux brevets et aux autres projets open source qui font partie de l'état de l'art public et doivent être comparés à votre propre travail.
 
 ### Apport de l'open source en tant que tel pour justifier le caractère R&D
 
@@ -66,6 +66,6 @@ Les dispositifs fiscaux CIR, CII et Jeune Entreprise Innovante ne permettent qu'
 
 Certains projets qui ne génèrent ni nouvelles connaissances académiques, ni supériorité face aux implémentations privées, ne seront pas éligibles à ces dispositifs. 
 
-Le CIR et le CII ne permettent pas de valoriser les travaux open source au niveau de "l'infrastructure", c'est-à-dire la conception de solutions libres via des techniques d'ingénierie classique pour résoudre des problèmes communs. Ces travaux sont pourtant utile au bon fonctionnement de nombreux systèmes, notamment d'autres systèmes innovants et d'autres travaux de recherche.
+Le CIR et le CII ne permettent pas de valoriser les travaux open source au niveau de "l'infrastructure", c'est-à-dire la conception de solutions libres via des techniques d'ingénierie classique pour résoudre des problèmes communs. Ces travaux sont pourtant utiles au bon fonctionnement de nombreux systèmes, notamment d'autres systèmes innovants et d'autres travaux de recherche.
 
 Le dépôt [lettres-open-source](https://github.com/accelerer-open-source/lettres-open-source) fournit des modèles de lettres à transmettre à vos représentants pour les informer de cette problématique.

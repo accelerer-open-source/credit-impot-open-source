@@ -18,7 +18,7 @@ Vous pouvez contribuer à ce document via les outils de collaborations fournis p
 
 ### Ressources
 
-Le [Bulletin Officiel des Finances Publiques](https://bofip.impots.gouv.fr/bofip/6486-PGP.html) définit les activités éligibles au CIR. Il s'appuie pour cela sur le [Manuel de Frascati](https://www.oecd.org/fr/innovation/inno/manueldefrascatimethodetypeproposeepourlesenquetessurlarechercheetledeveloppementexperimental6emeedition.htm).
+Le [Bulletin Officiel des Finances Publiques](https://bofip.impots.gouv.fr/bofip/6486-PGP.html) définit les activités éligibles au CIR. Il s'appuie pour cela sur le [Manuel de Frascati](https://doi.org/10.1787/9789264257252-fr).
 
 ### Écueil courant : rendre un code public ne suffit pas à justifier un apport de connaissance
 
@@ -42,7 +42,7 @@ Dans une certaine mesure si le projet est effectivement exploité par des tiers,
 
 ### Ressources
 
-Le [Manuel d'Oslo](https://www.oecd.org/fr/sti/inno/2367554.pdf) définit la notion d'innovation.
+Le [Manuel d'Oslo](https://doi.org/10.1787/c76f1c7b-fr) définit la notion d'innovation.
 
 ### Ecueil courant : créer une alternative publique à une implémentation privée ne suffit pas à justifier d'une innovation
 
